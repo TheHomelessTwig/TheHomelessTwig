@@ -1,6 +1,6 @@
 # Hi, I'm TheHomelessTwig 👋
 
-Self-taught developer and CS student at **Murdoch University** — building things I actually want to use: pixel-art wallpapers, Wayland tools, and Linux desktop utilities.
+First year CS student at **Murdoch University** + building things I actually want to use: pixel-art wallpapers, Wayland tools, and Linux desktop utilities.
 
 ---
 
@@ -22,15 +22,16 @@ Self-taught developer and CS student at **Murdoch University** — building thin
 
 ---
 
-## 🎓 Currently Studying @ Murdoch University
+## 🎓 Currently Studying BIT+CS @ Murdoch University
 
-| Unit | Topic |
-|------|-------|
-| ICT169 | Data Communications & Networking |
-| ICT159 | Introductory Computing (C Programming) |
-| MAS164 | Mathematics for Computing |
-
-**Networking focus:** OSI & TCP/IP models · IPv4/IPv6 · VLSM subnetting · VLANs · STP · DNS · NAT · QoS
+| Period | Unit | Topic |
+|------|------|-------|
+| S1/26 | ICT159 | Foundations of Programming |
+| S1/26 | ICT169 | Foundations of Data Communications	 |
+| S1/26 | MAS164 | Fundamentals of Mathematics |
+| S2/26 | ICT111 | Cybersecurity Fundamentals |
+| S2/26 | ICT170 | Foundations of Computer Systems |
+| S2/26 | MAS162 | Discrete Mathematics and Logic | 
 
 ---
 
