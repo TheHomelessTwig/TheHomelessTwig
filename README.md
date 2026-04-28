@@ -33,12 +33,12 @@ First year CS student at **Murdoch University** + building things I actually wan
 | S2/26 | ICT170 | Foundations of Computer Systems |
 | S2/26 | MAS162 | Discrete Mathematics and Logic | 
 
----
+<!---
 
 ## 📈 Currently Learning
 
 <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/681d478542b1a24787446327?variant=dark&roadmaps=python%2Ccomputer-science%2Cdatastructures-and-algorithms" alt="roadmap.sh"/></a>
-
+-->
 ---
 
 ## 🏅 Certifications
