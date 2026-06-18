@@ -6,6 +6,21 @@ First year CS student at **Murdoch University** + building things I actually wan
 
 ## 🚀 Featured Projects
 
+### [sprig-lang](https://github.com/TheHomelessTwig/sprig-lang)
+> English-like, indentation-based language with Hindley-Milner type inference, ownership/borrow checking, and an LLVM backend — plus an experimental self-hosted Sprig-to-C compiler (fully bootstrapped).
+
+**C++17 · LLVM · Tree-sitter · LSP**
+
+### [newc-rs](https://github.com/TheHomelessTwig/newc-rs)
+> GUI + CLI tool for scaffolding and managing C projects — Makefile/CMake build targets, module add/remove/sync, dead-function detection.
+
+**Rust · egui/eframe**
+
+### [medical-inventory](https://github.com/TheHomelessTwig/medical-inventory)
+> Self-contained open-source inventory management system for medical practices.
+
+**React · Express · PostgreSQL · Docker**
+
 ### [dynamic-city-wallpaper](https://github.com/TheHomelessTwig/dynamic-city-wallpaper)
 > Animated pixel-art city wallpaper for Wayland. Reacts to live weather, time of day, season, moon phase, and holidays — and looks different every boot.
 
@@ -15,9 +30,13 @@ First year CS student at **Murdoch University** + building things I actually wan
 
 ## 🛠️ Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![LLVM](https://img.shields.io/badge/LLVM-262D3A?style=flat-square&logo=llvm&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ---
